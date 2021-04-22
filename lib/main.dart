@@ -2,9 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:trizen/HomeScreen.dart';
 import 'package:trizen/WebViewPage.dart';
+import 'package:trizen/WikipediaExplorer.dart';
 import 'package:trizen/constants.dart';
 import 'package:trizen/splashscreen.dart';
 
+import 'HomeScreen.dart';
 import 'constants.dart';
 
 
