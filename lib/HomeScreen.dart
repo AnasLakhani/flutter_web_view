@@ -46,6 +46,7 @@ class HomeScreenState extends State<HomeScreen> {
         _connectivity.onConnectivityChanged.listen(_updateConnectionStatus);
   }
 
+
   @override
   void dispose() {
     _connectivitySubscription.cancel();
